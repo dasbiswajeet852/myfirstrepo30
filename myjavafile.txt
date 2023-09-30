@@ -1,1 +1,29 @@
-love love love
+love love love tingu gulu cute little princes muuhaaa.
+
+Calculate the heat rate if steam enters a turbine at 400oF at atmospheric pressure and leaves the turbine at 200oF. Steam at 500 lb flows through the turbine each hour during normal operation.
+
+Solution:
+
+Given parameters are,
+
+Ws = 500 lbs/hr
+
+c = 0.48
+
+Tin = 400oF
+
+Tout = 200oF
+
+ΔT = 400 – 200
+
+ΔT = 200oF
+
+We have the Formula,
+
+Rh = Ws × c ×ΔT
+
+ Rh = 500 × 0.48 × 200
+
+Therefore,  Rh = 48000 btu/hr
+........
+
